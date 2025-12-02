@@ -51,5 +51,6 @@ hotel-snowflake-dashboard/
 └── .gitignore                # Git ignore file
 
 👤 Author
-Reshmika S. — Data Enthusiast & Analytics Developer
-🐙 GitHub: https://github.com/resh-mi004
+  Reshmika S. — Data Enthusiast & Analytics Developer
+  
+  🐙 GitHub: https://github.com/resh-mi004

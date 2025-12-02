@@ -46,7 +46,11 @@ A comprehensive analytics dashboard built with **Streamlit** and **Snowflake**, 
     streamlit run Dashboard/app.py
 
 📂 Project Structure
+
 <img width="638" height="225" alt="Screenshot 2025-12-02 200641" src="https://github.com/user-attachments/assets/d4c7b1b6-4d21-41fe-b603-9554f521fea9" />
+
+
+
 👤 Author
   Reshmika S. — Data Enthusiast & Analytics Developer
   

@@ -4,7 +4,7 @@
 A comprehensive analytics dashboard built with **Streamlit** and **Snowflake**, providing insights into hotel bookings, revenues, and trends.
 
 ## 🔗 Live Demo
-- **Dashboard URL:** "https://hotel-app-dashboard-mb6ztvmcaarbucmrjtcsyb.streamlit.app/"
+- **Dashboard URL:** [Live Demo](https://hotel-app-dashboard-mb6ztvmcaarbucmrjtcsyb.streamlit.app/)
 
 ## ✨ Key Features
 

@@ -32,14 +32,17 @@ A comprehensive analytics dashboard built with **Streamlit** and **Snowflake**, 
    git clone 
    cd
 2. Create a virtual environment and activate it:
-    python -m venv venv
+   ```bash
+   python -m venv venv
     venv\Scripts\activate    # Windows
     source venv/bin/activate # macOS/Linux
    
 4. Install dependencies:
+   ```bash
     pip install -r requirements.txt
    
-5. Run the Streamlit dashboard:
+6. Run the Streamlit dashboard:
+   ```bash
     streamlit run Dashboard/app.py
 
 📂 Project Structure
